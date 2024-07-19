@@ -1,0 +1,7 @@
+When you type https://www.google.com and press Enter, a DNS request is sent to translate the domain name into an IP address,
+TCP/IP connection is then established between your browser and the server at that IP address, enabling communication, your request passes through a firewall,
+which checks for security criteria before allowing it to pass through.
+HTTPS/SSL encryption ensures all data exchanged between your browser & server remains encrypted and secure,
+the web server processes your request, retrieving resources and data.
+If needed, an application server executes server-side code or queries a database.
+The database retrieves and manages data, sending it back to the web server and finally to your browser, displaying the webpage.
